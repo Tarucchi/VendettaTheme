@@ -1,5 +1,6 @@
+
 {
-    "name": "Orange Mountains",
+    "name": "Test Tema",
     "description": "A simple theme for Vendetta with an image of orange mountains. DARK MODE REQUIRED!",
     "authors": [
         {
@@ -123,7 +124,7 @@
     "spec": 2,
     "background": {
         "blur": 0.6,
-        "url": "https://discord.com/channels/866952649554526248/866952649554526251/1100744415800217660",
+        "url": "https://github.com/Tarucchi/VendettaTheme/blob/main/45a48dec80c143eaab9b170d6c69993c.jpg",
         "alpha": 0.5,
         "color": "#181818"
     }
